@@ -10,7 +10,7 @@ Create Photo Cards for ESL conversation classes / ESL vocabulary recycling with 
 - elegant, responsive layout that prints well
 
 ### screenshot / example
-![screenshot](https://monolithpl.github.io/photo-cards/photocards.png "screenshot")
+![screenshot](http://monolithpl.github.io/photo-cards/photocards.png "screenshot")
 
 ### demo
 [check it out here](https://monolithpl.github.io/photo-cards/)
